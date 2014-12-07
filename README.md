@@ -1,4 +1,7 @@
+## MY SCRIPTS AND PLOTS ARE INSIDE THE NAMED FOLDERS. THANKS. HAPPY GRADING!
+
 ## Introduction
+
 
 This assignment uses data from
 the <a href="http://archive.ics.uci.edu/ml/">UC Irvine Machine
